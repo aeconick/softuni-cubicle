@@ -20,13 +20,6 @@
             "description": "test",
             "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/61izOzq%2BBAL._SY355_.jpg",
             "difficultyLevel": "1"
-        },
-        {
-            "id": 4,
-            "name": "dasd",
-            "description": "asd",
-            "imageUrl": "asd",
-            "difficultyLevel": "1"
         }
     ]
 }
