@@ -1,0 +1,20 @@
+{
+  "cubes": [
+    {
+      "name": {
+        "name": "fadf",
+        "description": "fdaf",
+        "imageUrl": "adf",
+        "difficultyLevel": "1"
+      }
+    },
+    {
+      "name": {
+        "name": "dasd",
+        "description": "asd",
+        "imageUrl": "asd",
+        "difficultyLevel": "1"
+      }
+    }
+  ]
+}
