@@ -1,6 +1,6 @@
 const Cube = require('../models/Cube');
 
-const db = require('../db.json'); exports.getHomePage = async (req, res) => {
+exports.getHomePage = async (req, res) => {
     const { search, from, to } = req.query;
 
     let cubes = await Cube.find().lean();
